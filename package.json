@@ -1,0 +1,22 @@
+{
+  "name": "ind-mod5",
+  "version": "1.0.0",
+  "description": "Trabalho individual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaBia13/Modulo-5-Individual-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaBia13/Modulo-5-Individual-/issues"
+  },
+  "homepage": "https://github.com/AnaBia13/Modulo-5-Individual-#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
